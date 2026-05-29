@@ -1,4 +1,4 @@
-# 🏋️ Fitness Tracker Microservices
+# 🎯 Fitness Tracker Microservices
 
 A scalable fitness tracking platform built using Spring Boot Microservices, React, Keycloak, RabbitMQ, MongoDB, and Google Gemini AI.
 
